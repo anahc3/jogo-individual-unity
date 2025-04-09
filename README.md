@@ -2,6 +2,10 @@
 
 Jogo 2D feito em Unity para a entrega da disciplina de Jogos Digitais.
 
+## 📽️ Preview do jogo
+
+![Flower Collector gameplay](docs/jogo.gif)
+
 ## Como Jogar
 - Use **W A S D** para se mover
 - Colete todas as flores para vencer!
