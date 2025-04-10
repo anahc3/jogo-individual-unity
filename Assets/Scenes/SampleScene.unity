@@ -532,7 +532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc6e02b9498846847a169f82d32c39a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  painelMenu: {fileID: 0}
+  painelMenu: {fileID: 191346213}
   painelInstrucoes: {fileID: 0}
 --- !u!114 &191346215
 MonoBehaviour:
@@ -1199,7 +1199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc6e02b9498846847a169f82d32c39a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  painelMenu: {fileID: 0}
+  painelMenu: {fileID: 191346213}
   painelInstrucoes: {fileID: 0}
 --- !u!114 &614110559
 MonoBehaviour:
@@ -2087,7 +2087,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 614110558}
+      - m_Target: {fileID: 191346214}
         m_TargetAssemblyTypeName: MenuActions, Assembly-CSharp
         m_MethodName: Menu
         m_Mode: 1
@@ -2873,7 +2873,7 @@ SceneRoots:
   - {fileID: 306255485}
   - {fileID: 660166543}
   - {fileID: 614110563}
-  - {fileID: 1374008867}
   - {fileID: 1079382240}
   - {fileID: 191346219}
+  - {fileID: 1374008867}
   - {fileID: 27366555}
