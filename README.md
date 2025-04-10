@@ -2,7 +2,7 @@
 
 Jogo 2D feito em Unity para a entrega da disciplina de Jogos Digitais.
 
-## 📽️ Preview do jogo
+## Preview do jogo
 
 ![Flower Collector gameplay](docs/jogo.gif)
 
